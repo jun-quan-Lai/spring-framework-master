@@ -38,3 +38,12 @@ out
 test-output
 atlassian-ide-plugin.xml
 .gradletasknamecache
+*.jar
+*.txt
+*.bin
+*.len
+*.tab_i
+*.at
+*.keystream
+*.tab
+*.MF
